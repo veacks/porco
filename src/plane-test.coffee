@@ -168,6 +168,7 @@ initScene = ->
   aMeshMirror.rotation.x = -Math.PI / 2
   scene.add aMeshMirror
 
+  ###
   i = 0
   while i < 50
     size = Math.random() * 2 + .5
@@ -176,6 +177,7 @@ initScene = ->
     box.position.set Math.random() * 25 - 50, 50, Math.random() * 25 - 50
     scene.add box
     i++
+  ###
 
   aCubeMap = THREE.ImageUtils.loadTextureCube([
     "src/shaders/ocean/demo/assets/img/px.jpg"
