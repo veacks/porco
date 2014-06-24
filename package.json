@@ -1,0 +1,43 @@
+{
+  "name": "proco-rosso",
+  "version": "0.0.0",
+  "description": "A webgl game about Porco Rosso",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veacks/porco.git"
+  },
+  "keywords": [
+    "Webgl",
+    "Game",
+    "Three.js"
+  ],
+  "author": "LittleRoosters - Valentin Dubois and Michael Colleu",
+  "license": "CC BY-NC-SA 3.0 FR",
+  "bugs": {
+    "url": "https://github.com/veacks/porco/issues"
+  },
+  "homepage": "https://github.com/veacks/porco",
+  "devDependencies": {
+    "backbone": "~1.1.2",
+    "three": "~0.66.2",
+    "backbone.marionette": "~2.0.1",
+    "grunt": "~0.4.5",
+    "browserify": "~4.1.11",
+    "grunt-browserify": "~2.1.0",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-contrib-coffee": "~0.10.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-coffeelint": "0.0.10",
+    "grunt-docco": "~0.3.3",
+    "jquery": "~2.1.1",
+    "underscore": "~1.6.0",
+    "coffeeify": "~0.6.0",
+    "node-underscorify": "0.0.11",
+    "uglifyify": "~2.4.0",
+    "remapify": "~0.1.6"
+  }
+}

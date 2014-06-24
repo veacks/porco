@@ -1,0 +1,1104 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"loa",
+				"Loading"
+			],
+			[
+				"user",
+				"userSurveyId"
+			],
+			[
+				"MS",
+				"MSurveyAnswer"
+			],
+			[
+				"bre",
+				"word-break"
+			],
+			[
+				"reset",
+				"resetPassword"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"g",
+				"glyphicon"
+			],
+			[
+				"li",
+				"list-inline"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"fet",
+				"fetched"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"pull-",
+				"pull-left"
+			],
+			[
+				"an",
+				"answer"
+			],
+			[
+				"crf",
+				"csrf-token"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"de",
+				"delegateEvents"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"color",
+				"color-yellow"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"overflow",
+				"overflow-x"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"i",
+				"if	if … end"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"video",
+				"video-js"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"inser",
+				"insertAfter"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"no-c",
+				"submit-no-connection"
+			],
+			[
+				"is",
+				"isnt"
+			],
+			[
+				"ser",
+				"serialize"
+			],
+			[
+				"re",
+				"repeat-y"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/plane-test.coffee",
+			"settings":
+			{
+				"buffer_size": 6479,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/plugins/Physijs/physi.js",
+			"settings":
+			{
+				"buffer_size": 44149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/plugins/Physijs/examples/constraints_car.html",
+			"settings":
+			{
+				"buffer_size": 8478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/plugins/Physijs/examples/vehicle.html",
+			"settings":
+			{
+				"buffer_size": 7286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/shaders/ocean/water-material.js",
+			"settings":
+			{
+				"buffer_size": 13671,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/shaders/ocean/demo/index.html",
+			"settings":
+			{
+				"buffer_size": 1581,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/shaders/ocean/demo/assets/js/demo.js",
+			"settings":
+			{
+				"buffer_size": 4836,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gruntfile.coffee",
+			"settings":
+			{
+				"buffer_size": 6329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "plane-view.html",
+			"settings":
+			{
+				"buffer_size": 361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/objects/seaplane.js",
+			"settings":
+			{
+				"buffer_size": 941434,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/valentin/Sites/porco-rosso/porco-rosso-git/plane-view.html",
+		"/Users/valentin/Sites/porco-rosso/porco-rosso-git/package.json",
+		"/Users/valentin/Sites/porco-rosso/porco-rosso-git/gruntfile.coffee",
+		"/Users/valentin/Sites/porco-rosso/porco-rosso-git/.gitignore",
+		"/Users/valentin/Sites/porco-rosso/porco-rosso-git/README.md",
+		"/Users/valentin/Sites/porco-rosso/porco-rosso-git/src/plane-view.coffee",
+		"/Users/valentin/Sites/porco-rosso/porco-rosso-git/src/perso-view.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/js/app/modules/video/views/VVideoPlayer.js",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/router.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/dashboard/views/VDashboard.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/user/views/VUserProfile.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/mixins/views/generalView.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/app_new.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/app-audit.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/video/views/VVideoPlayer.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/Gruntfile.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/audit/views/VAuditSurvey.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/audit/views/VAuditReport.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/views/VSurveyReport.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/views/VSurveyLayout.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/progress/views/VProgressBar.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/node_modules/node-underscorify/index.js",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/user/views/VUserRegister.coffee",
+		"/Users/valentin/Sites/pull-request/node-modules/node-underscorify/index.js",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/article/collections/CArticleBlocks.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/article/collections/CArticleSections.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/mixins/collections/NodesMixin.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/article/models/MArticleBlock.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/article/models/MArticleSection.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/article/initArticle.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/article/views/VArticleLayout.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/article/views/VArticleSection.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/article/views/VArticleSideNavigation.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/article/views/VArticleSideNavigationItem.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/audit/initAudit.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/commons/models/MSession.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/commons/views/VProgress.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/commons/views/VTextareaResize.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/dashboard/collections/CDashboardItems.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/dashboard/models/MDashboardItem.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/dashboard/initDashboard.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/dashboard/RDashboard.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/entries/collections/CEntries.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/entries/models/MEntrie.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/entries/models/MEntriesManagement.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/entries/views/VEntriesLayout.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/entries/views/VEntriesList.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/entries/views/VEntry.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/entries/initEntries.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/entries/REntries.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/layout/collections/CLayoutNavItems.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/layout/models/MLayoutNavItem.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/layout/views/VLayoutBody.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/layout/views/VLayoutLoading.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/layout/views/VLayoutMainContent.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/layout/views/VLayoutNav.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/layout/views/VLayoutTitle.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/layout/initLayout.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/notes/collections/CNotes.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/notes/models/MNote.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/notes/views/VNotesEdit.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/notes/views/VNotesJournal.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/notes/views/VNotesList.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/notes/views/VNotesNew.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/notes/initNotes.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/progress/collections/CProgress.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/progress/models/MProgress.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/progress/models/MProgressCertif.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/progress/views/VProgressCertif.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/progress/views/VProgressDetails.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/progress/initProgress.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/collections/CSurveyAnswerOptions.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/collections/CSurveyAnswerQuestions.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/collections/CSurveyOptions.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/collections/CSurveyQuestions.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/collections/CSurveyQuestionsGroup.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/collections/CSurveyReport.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/collections/CSurveys.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/models/MSurvey.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/models/MSurveyAnswer.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/models/MSurveyAnswerOption.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/models/MSurveyAnswerQuestion.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/models/MSurveyOption.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/models/MSurveyQuestion.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/models/MSurveyQuestionGroup.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/models/MSurveyReport.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/models/MSurveyReportSend.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/views/VSurveyAnswersList.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/views/VSurveyGroup.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/views/VSurveyReportSend.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/survey/initSurvey.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/user/models/MUser.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/user/views/VUserForgotPassword.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/user/views/VUserLogin.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/user/views/VUserNavigation.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/user/views/VUserResetPassword.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/user/initUser.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/video/collections/CVideos.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/video/models/MVideo.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/modules/video/views/VVideoList.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/utils/syncRewriter.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/BackboneSyncRewrite.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/RAudit.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/index.html",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/audit.index.html",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/.htaccess",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/mixins/views/messages.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app/mixins/models/utils.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/config/val.tplm.mobile.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/config/val.splm.mobile.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/config/val.pplm.mobile.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/config/val.audit.mobile.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/coffee/app/modules/survey/models/MSurveyAnswerQuestion.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/config/val.audit.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/build/plm.js",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/prod.audit.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/prod.splm.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/prod.tplm.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/prod.pplm.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/coffee/app/router.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/coffee/app/app_new.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/coffee/app/app-audit.coffee",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/dev.audit.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/dev.pplm.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/dev.splm.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/dev.tplm.config.json",
+		"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/config/pplm.config.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/app",
+			"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/coffee",
+			"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/css/sass/plmParts",
+			"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/coffee/app",
+			"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/",
+			"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/coffee",
+			"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/",
+			"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/coffee/",
+			"/Users/valentin/Sites/ESA/PlmTool/trunk/SafeSchools/SharedPlm/public/sass/bootstrap",
+			"/Users/valentin/Sites/ESA/Mind Matters/trunk/temp_front_office",
+			"/Users/valentin/Sites/Javascript Unit Test Boilerplate/",
+			"/Users/valentin/Sites/Javascript Unit Test Boilerplate/js/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"initScene",
+			"inPara",
+			"mirrorShader",
+			"map",
+			"material",
+			"shaderMaterial",
+			"NoiseGen",
+			"box",
+			"stat",
+			"stats",
+			"ground",
+			"Worker",
+			"worker",
+			"three",
+			"config.",
+			"details",
+			"getInternetExplorerVersion",
+			"	",
+			"\"templates",
+			"tpl!",
+			"uSubroutes",
+			"Router",
+			"router",
+			"    ",
+			"Backbone",
+			"    ",
+			"_",
+			"vendor",
+			"backbone",
+			"/Users/valentin/Sites/ESA/PlmTool/MobileBranch/SafeSchools/SharedPlm/public/src/config.coffee",
+			"exclude",
+			"plugin",
+			"plugins",
+			"backbone",
+			"notFound",
+			"plugins",
+			"opts.paths",
+			"opts.path",
+			"opts",
+			"notFound",
+			"jquery",
+			"$",
+			"require",
+			"console.log",
+			"make",
+			"article-section-pager",
+			"console",
+			"notes",
+			"h2",
+			"legend",
+			"user-profile-form",
+			"setSessionToken",
+			"notConnectedPages",
+			"progress",
+			"navigation",
+			"img/",
+			"joy",
+			"girl",
+			"make-xd",
+			"make",
+			"user-survey-report",
+			"report",
+			"md",
+			"getForgeryToken",
+			"legend",
+			"	",
+			"view",
+			"    ",
+			"new",
+			"article",
+			".dev",
+			"http://172.18.11.47:10124",
+			"first",
+			"console.log(.*)",
+			"logger.disable()",
+			"logger.enable()",
+			"logger.enbale()",
+			"jquery-ui",
+			"video-js-cdn",
+			"jquery-setOffset",
+			"json",
+			"jquery-details",
+			"jqueryDetails",
+			"css",
+			"video-list-player",
+			"dashboard",
+			"InitAudit",
+			"InitSurvey",
+			"(MOVED) ",
+			"\" :",
+			"textarea-hidden-clone",
+			".survey",
+			"h3",
+			"details",
+			"progress-",
+			"justify",
+			"currentView",
+			"userNavigation",
+			"fetch",
+			"entries",
+			"container",
+			"login",
+			"min-nav",
+			"side",
+			"entries",
+			"entries-per-page",
+			"entries",
+			"recordsPerPage",
+			"fetchModel",
+			"entries",
+			"survey",
+			"survey-question",
+			"notes",
+			"	",
+			"notes",
+			"entries",
+			"notes",
+			"survey",
+			"cms",
+			"	",
+			"profile",
+			"    ",
+			"video",
+			"journal",
+			"dashboard",
+			"user-navigation",
+			"InitProgress",
+			"gradient"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@config.",
+			"  ",
+			" = require \"templates",
+			"",
+			" ",
+			"media/img/",
+			"woman",
+			"make-xs",
+			"  ",
+			".stage",
+			"http://ssh.audittool.stage.esa.edu.au",
+			"",
+			"jqueryUi",
+			"videoJsCdn",
+			"jquerySetOffset",
+			"jqueryDetails",
+			"",
+			"\":",
+			"navigate",
+			"  ",
+			"entries",
+			"",
+			"pc12340:57206",
+			"\n        {\n        	\"viewed\": false,",
+			"  ",
+			"\"required\"",
+			"action=\"temp/json/data-plan-response.json\" data-json=\"\"",
+			"temp/json/data-plan-response.json",
+			"<table class=\"table table-striped\"",
+			"<table class=\"table\"",
+			"Introduction : rate",
+			"	",
+			"\"0\").attr(\"fill\"",
+			"Student learning",
+			"School processes",
+			"Student learning",
+			"outline-color",
+			"    ",
+			"      ",
+			"    ",
+			"",
+			"    ",
+			"glyphicon glyphicon-edit",
+			" <i class=\".glyphicon .glyphicon-edit\"></i></span>",
+			"<span class=\"editable-value\" title=\"Click to edit this field\" tabindex=\"0\">",
+			"<dd class=\"editable\">",
+			"<button type=\"button\" class=\"btn editable-cancel\">Cancel</button>",
+			"",
+			"Article",
+			"<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>",
+			"<strong>Recent notes</strong>",
+			"<button type=\"submit\" class=\"btn btn-primary\"><i class=\"icon-white icon-ok\"></i></button>",
+			"    ",
+			"<li><a href=\"accessibility.html\">Accessibility</a></li>",
+			"<li class=\"notes-form-recent-empty\">No recent note...</li>",
+			"								<li class=\"notes-form-recent-empty\"><strong>No recent note...</strong></li>",
+			"<!--								<li>\n									<strong>Name / Section</strong>\n\n									<p>Vestibulum non vestibulum risus, vitae suscipit lorem. Proin in rhoncus lectus, eu accumsan tellus. Suspendisse eu varius ligula, non congue enim. Integer laoreet lectus rhoncus tortor vestibulum porta. Vestibulum venenatis ornare iaculis.</p>\n								</li>\n								<li>\n									<strong>Name / Section</strong>\n\n									<p>Vestibulum non vestibulum risus, vitae suscipit lorem. Proin in rhoncus lectus, eu accumsan tellus. Suspendisse eu varius ligula, non congue enim. Integer laoreet lectus rhoncus tortor vestibulum porta. Vestibulum venenatis ornare iaculis.</p>\n								</li>\n								<li>\n									<strong>Name / Section</strong>\n\n									<p>Vestibulum non vestibulum risus, vitae suscipit lorem. Proin in rhoncus lectus, eu accumsan tellus. Suspendisse eu varius ligula, non congue enim. Integer laoreet lectus rhoncus tortor vestibulum porta. Vestibulum venenatis ornare iaculis.</p>\n								</li>-->",
+			"<form",
+			"<form  ",
+			"    ",
+			"Record responses in your journal",
+			"q$1",
+			"#diagram-area-$1,\n	.area$1",
+			"#diagram-area-$1\n	.area$1",
+			"@text[\"$1\"].node.id = \"text-counter-$2\"",
+			"@areas[\"$1\"].node.id = \"diagram-area-$2\"",
+			"39",
+			"38",
+			"37",
+			"36",
+			"35",
+			"28",
+			"25",
+			"24",
+			"23",
+			"22",
+			"21",
+			"20",
+			"19",
+			"<strong>Hello, <a href=\"#\" title=\"Click to edit your profile.\">michelle.edmunds@esa.edu.au</a></strong>",
+			"<strong>Hello, <a href=\"#\" title=\"Click to edit your profile.\">michelle.edmunds@esa.edu.au</a></strong>  |  <a href=\"index.html\">Logout</a> | <a href=\"#\">Help</a>",
+			"green",
+			"<a href=\"#\" class=\"site-title pull-left\"><img src=\"Content/img/main-logo.png\" alt=\"Mind Matters\"></a>\n\n				<a href=\"#\" class=\"site-sub-title pull-right\">Work<span class=\"uppercase\">ON</span> data plan</a>",
+			"Line 7:",
+			"Line 6:",
+			"Line 5:",
+			"Line 4:",
+			"Line 3:",
+			"Line 2:",
+			"Line 1:",
+			"Don't know\" value=\"op5\"",
+			"SDon't know\" value=\"op5\"",
+			"Strongly disagree\" value=\"op4\"",
+			"Disagree\" value=\"op3\"",
+			"Agree\" value=\"op2\"",
+			"Strongly agree\" value=\"op1\"",
+			"$1",
+			"<tr>\n										<th></th>\n										<td><input type=\"radio\" name=\"qop1\" title=\": Strongly agree\" value=\"Strongly agree\"></td>\n										<td><input type=\"radio\" name=\"qop2\" title=\": Agree\" value=\"Agree\"></td>\n										<td><input type=\"radio\" name=\"qop2\" title=\": Disagree\" value=\"Disagree\"></td>\n										<td><input type=\"radio\" name=\"qop2\" title=\": Strongly disagree\" value=\"Strongly disagree\"></td>\n										<td><input type=\"radio\" name=\"qop2\" title=\": Don't know\" value=\"Don't know\"></td>\n									</tr>",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"</form>\n\n						<!-- [RECENT NOTES LIST] -->\n						<div class=\"notes-form-recent-notes\">\n							<strong>Recent Notes</strong>\n							<ul class=\"unstyled notes-form-recent-notes-list\">\n								<li>\n									<strong>Name / Section</strong>\n\n									<p>Vestibulum non vestibulum risus, vitae suscipit lorem. Proin in rhoncus lectus, eu accumsan tellus. Suspendisse eu varius ligula, non congue enim. Integer laoreet lectus rhoncus tortor vestibulum porta. Vestibulum venenatis ornare iaculis.</p>\n								</li>\n								<li>\n									<strong>Name / Section</strong>\n\n									<p>Vestibulum non vestibulum risus, vitae suscipit lorem. Proin in rhoncus lectus, eu accumsan tellus. Suspendisse eu varius ligula, non congue enim. Integer laoreet lectus rhoncus tortor vestibulum porta. Vestibulum venenatis ornare iaculis.</p>\n								</li>\n								<li>\n									<strong>Name / Section</strong>\n\n									<p>Vestibulum non vestibulum risus, vitae suscipit lorem. Proin in rhoncus lectus, eu accumsan tellus. Suspendisse eu varius ligula, non congue enim. Integer laoreet lectus rhoncus tortor vestibulum porta. Vestibulum venenatis ornare iaculis.</p>\n								</li>\n							</ul>\n						</div>\n						<!-- [/RECENT NOTES LIST] -->\n					</aside>\n					<!-- [/GENERAL NOTES] -->",
+			"Demographics",
+			"@where(",
+			"",
+			"\"]",
+			"@areas[\"$1\"].fill",
+			"",
+			"      ",
+			"    ",
+			"#article/page",
+			"    ",
+			"</span></h1> ",
+			"<h1><span>  ",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/plane-test.coffee",
+					"settings":
+					{
+						"buffer_size": 6479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4195,
+								4195
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/plugins/Physijs/physi.js",
+					"settings":
+					{
+						"buffer_size": 44149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9461.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/plugins/Physijs/examples/constraints_car.html",
+					"settings":
+					{
+						"buffer_size": 8478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3166.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/plugins/Physijs/examples/vehicle.html",
+					"settings":
+					{
+						"buffer_size": 7286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5175,
+								5188
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1932.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/shaders/ocean/water-material.js",
+					"settings":
+					{
+						"buffer_size": 13671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7921,
+								7921
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1731.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/shaders/ocean/demo/index.html",
+					"settings":
+					{
+						"buffer_size": 1581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/shaders/ocean/demo/assets/js/demo.js",
+					"settings":
+					{
+						"buffer_size": 4836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3836,
+								3137
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1167.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "gruntfile.coffee",
+					"settings":
+					{
+						"buffer_size": 6329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1881,
+								1881
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 293.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "plane-view.html",
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/objects/seaplane.js",
+					"settings":
+					{
+						"buffer_size": 941434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								941434,
+								941434
+							]
+						],
+						"settings":
+						{
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CoffeeLintPanel":
+	{
+		"height": 94.0
+	},
+	"output.exec":
+	{
+		"height": 24.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/valentin/Sites/Javascript Unit Test Boilerplate/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true
+}
